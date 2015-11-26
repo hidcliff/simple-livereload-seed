@@ -1,2 +1,2 @@
 # simple-livereload-seed
-Simple livereload seed for prototyping
+Simple livereload seed for prototyping.
